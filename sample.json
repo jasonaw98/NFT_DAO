@@ -1,0 +1,10 @@
+{
+    "name": "WBA NFT",
+    "symbol": "ALPHA",
+    "description": "A test for our NFT example.",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://bafybeiemiautisydjo5u76xtnfjck4556332ggzv4l6ir34h4gu26oshsm.ipfs.dweb.link/nikeAd1.jpg"
+}
